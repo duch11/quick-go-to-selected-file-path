@@ -1,6 +1,8 @@
 # quick-go-to-selected-terraform-path
 Original code by g8up/quick-go-to-selected-file-path
+
 This is a patch to have it filter for git repositories, in specific it's for terraform source definitions in git.
+
 ( I know.. Very specific use case, maybe it should be upgraded later )
 
 # Usage
