@@ -1,8 +1,7 @@
-# quick-go-to-selected-file-path
-Quick jump to the file path you selected.（自动将选取的文本填充到 quickOpen 面板，用于快速跳转文件。）
-
-# Install
-[Marketplace](https://marketplace.visualstudio.com/items?itemName=duXing.quick-go-to-selected-file-path)
+# quick-go-to-selected-terraform-path
+Original code by g8up/quick-go-to-selected-file-path
+This is a patch to have it filter for git repositories, in specific it's for terraform source definitions in git.
+( I know.. Very specific use case, maybe it should be upgraded later )
 
 # Usage
 1. Select a file path in the text editor
