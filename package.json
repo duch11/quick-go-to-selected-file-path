@@ -1,9 +1,9 @@
 {
-  "name": "quick-go-to-selected-file-path",
-  "displayName": "Quick Go To Selected File Path",
+  "name": "quick-go-to-selected-terraform-path",
+  "displayName": "Go To Path For Terraform Module",
   "description": "Fill the selected file path to quickOpen panel.",
   "version": "0.0.7",
-  "publisher": "duXing",
+  "publisher": "duch11",
   "engines": {
     "vscode": "^1.18.0"
   },
@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/g8up/quick-go-to-selected-file-path"
+    "url": "https://github.com/duch11/quick-go-to-selected-terraform-path"
   },
   "icon": "images/icon.png"
 }
