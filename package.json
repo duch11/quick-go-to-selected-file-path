@@ -1,8 +1,8 @@
 {
   "name": "quick-go-to-selected-terraform-path",
-  "displayName": "Go To Path For Terraform Module",
-  "description": "Fill the selected file path to quickOpen panel.",
-  "version": "0.0.7",
+  "displayName": "quick-go-to-selected-terraform-path",
+  "description": "This is an extension to quickly extract the file path of a git source reference in terraform.",
+  "version": "0.0.1",
   "publisher": "duch11",
   "engines": {
     "vscode": "^1.18.0"
@@ -17,7 +17,7 @@
     "commands": [
       {
         "command": "extension.quickGoToSelectedFilePath",
-        "title": "Quick Go To Selected File Path",
+        "title": "Quick Go To Selected terraform module Path",
         "category": "Quick"
       }
     ],
